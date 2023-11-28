@@ -340,7 +340,7 @@ header {
   z-index: 3;
 }
 .home__section {
-  background-image: url(../img/home_background.png);
+  background-image: url(/img/home_background.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -511,7 +511,7 @@ header {
 }
 /* AMENITIES */
 .amenities__section {
-  background-image: url(../img/amenities_background.png);
+  background-image: url(/img/amenities_background.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -567,16 +567,6 @@ header {
 .amenities__item {
   text-align: center;
   width: 100%;
-}
-
-.amenities__section {
-  background-image: url(./img/amenities_background.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
-  padding-top: 163px;
-  padding-bottom: 163px;
-  z-index: 1;
 }
 
 .amenities__title {
